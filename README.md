@@ -1,15 +1,17 @@
-# 🧠 Chotu - Your Personal AI Assistant
+# 🧠 Chotu – Your Personal AI Assistant
+Chotu is a Python-based AI assistant inspired by Jarvis, designed to perform a variety of intelligent tasks, including:
 
-This is a Python-based AI assistant inspired by *Jarvis*, capable of:
+🔍 Web Search – Get answers instantly from the internet
 
-- 🔍 Searching the web  
-- 🌤️ Weather checking
-- 📷 Vision through camera (Web app)
-- 🗣️ Speech
-- 📝 Chat (Web app)
+🌤️ Weather Updates – Check real-time weather conditions
 
+📷 Vision via Webcam (Web App) – Analyze real-time video to answer visual questions like "How many fingers am I holding?"
 
-This agent uses LiveKit and have implemented tools such as Weather checking and Web searchng. The Web app allows the assistant to monitor the user via Web cam and answer any questions involving realtime web footage (such as-How many fingers am i holding?)
+🗣️ Speech Recognition & Interaction – Talk to Chotu using your voice
+
+💬 Interactive Chat (Web App) – Text-based conversations through an intuitive web interface
+
+The assistant is powered by LiveKit for real-time audio/video communication and includes integrated tools for weather checking and web searching. With webcam access in the web app, Chotu can see and respond to real-world visual queries, making it a more immersive and practical AI companion.
 
 
 1. Create the Virtual Envrionment first!
