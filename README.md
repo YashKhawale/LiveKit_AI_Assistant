@@ -8,9 +8,7 @@ This is a Python-based AI assistant inspired by *Jarvis*, capable of:
 - 🗣️ Speech
 - 📝 Chat (Web app)
 
-This agent uses LiveKit and have implemented tools such as Weather checking and Web searchng.\
-The Web app allows the assistant to monitor the user via Web cam and answer any questions \
-involving realtime web footage (such as-How many fingers am i holding?)
+This agent uses LiveKit and have implemented tools such as Weather checking and Web searchng. The Web app allows the assistant to monitor the user via Web cam and answer any questions involving realtime web footage (such as-How many fingers am i holding?)
 
 1. Create the Virtual Envrionment first!
    Use commands:
